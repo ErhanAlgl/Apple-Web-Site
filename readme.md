@@ -1,5 +1,7 @@
 # Apple Clone Website
 
+Live Demo: [https://erhanalgl.github.io/Apple-Web-Site/](https://erhanalgl.github.io/Apple-Web-Site/)
+
 This project is a responsive clone of the Apple website, created using HTML, CSS, JavaScript, and several third-party libraries to enhance the design and functionality.
 
 ## Features
@@ -25,4 +27,5 @@ This project is a responsive clone of the Apple website, created using HTML, CSS
 - **CSS**: Handles the styling, including the use of Bootstrap and custom CSS.
 - **JavaScript**: Implements interactive features such as navigation, sliders, and lightboxes.
 
-
+## ScreenShot
+  ![ScreenShot](./images/screenshot/Macbook-13-screenshot.png)
